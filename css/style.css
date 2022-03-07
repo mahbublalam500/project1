@@ -1,0 +1,80 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* .banner-container {
+  background: #cacaca;
+}
+
+.banner-column {
+  background: #8d8d8d;
+} */
+
+/* .banner-container {
+  background: #cacaca;
+}
+
+.banner-column {
+  background: #8d8d8d;
+}
+ */
+
+.banner-container {
+  background: lightseagreen;
+}
+
+.banner-column {
+  background: darkcyan;
+}
+
+.navbar-container {
+  background: darkslategrey;
+}
+
+.about-container {
+  background: lightsteelblue;
+}
+
+.about-img {
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin: auto;
+}
+
+.education-container {
+  background: lightcyan;
+}
+
+.edu-redtype-color {
+  color: darkslategrey;
+}
+
+.circle {
+  background: lightcoral;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.project-container {
+  background: darkseagreen;
+}
+
+.project-content img {
+  width: 250PX;  
+  height: 150px;
+}
+
+.footer {
+  background: darkslategrey;
+}
+
+.footer-icon i{
+  font-size: 40px;
+  color: white;
+}
+
+.footer-icon i:hover {
+  color: lightseagreen;
+}
